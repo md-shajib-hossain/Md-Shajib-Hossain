@@ -6,17 +6,9 @@
   <a href="https://github.com/Md-Shajib-Hossain"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Front-end+Developer;React+%7C+Next.js+%7C+Tailwind;Building+Pixel-Perfect+Web+Apps;From+Bangladesh+with+Love&center=true&width=550&height=50&color=00D4FF"></a>
 </p>
 
-<h3 align="center">Passionate MERN Stack Front-end Developer from Bangladesh</h3>
+<h3 align="center">Passionate MERN Stack Front-end Developer from Bangladesh.  I love building clean, responsive, and user-centric web applications that solve real problems.</h3>
 
 <br/>
-
-<div align="center">
- 
-  Turning ideas into smooth, responsive & stunning web experiences  
-  Currently mastering Next.js 14 App Router, TypeScript & advanced animations  
-  Fun fact: I can make Tailwind dance!  
-
-</div>
 
 <br/>
 
@@ -31,17 +23,9 @@
 
 <br/>
 
-<h3 align="left">Tech Stack I Work With</h3>
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="55" height="55"/>
+<h3 align="left"> 🛠 Tech Stack I Work With</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,redux,git,github,vscode,figma" />&nbsp;
 </p>
 
 <br/>
