@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/muhammad-fiaz/portfolio-images/main/banner-light.png" alt="Md Shajib Hossain - MERN Developer" />
+<img src="https://i.ibb.co.com/cBBvNCh/Green-Simple-Manager-Linked-In-Banner-1-1.jpg" alt="Md Shajib Hossain - MERN Developer" />
 
 <h1 align="center">Hi, I'm Md Shajib Hossain <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
