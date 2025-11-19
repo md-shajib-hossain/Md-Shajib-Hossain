@@ -6,6 +6,8 @@
   <a href="https://github.com/Md-Shajib-Hossain"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Front-end+Developer;React+%7C+Next.js+%7C+Tailwind;Building+Pixel-Perfect+Web+Apps;From+Bangladesh+with+Love&center=true&width=550&height=50&color=00D4FF"></a>
 </p>
 
+### About Me
+
 <h3 align="center">Passionate MERN Stack Front-end Developer from Bangladesh.  I love building clean, responsive, and user-centric web applications that solve real problems.</h3>
 
 <br/>
